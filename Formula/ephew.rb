@@ -1,8 +1,8 @@
 class Ephew < Formula
   desc "Local verbosity-toggle proxy for the Anthropic API"
   homepage "https://github.com/etherops/ephew"
-  url "https://github.com/etherops/ephew/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "4b1245a471acfc436b1309b89112a01bed1cdf49cb4e2f42edc9d15022785e8f"
+  url "https://github.com/etherops/ephew/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "1eb7dbdcb194884b961f455e3cc079a7005e2cc09ec67fa826d339fe6a21cef5"
   license "MIT"
   head "https://github.com/etherops/ephew.git", branch: "main"
 
